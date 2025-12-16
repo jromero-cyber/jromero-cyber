@@ -14,7 +14,7 @@
 ## 📂 Featured Projects
 | Project | Description |
 |---------|-------------|
-| [E-Week Password Cracking Demo](link) | Reconstruction of award-winning Hashcat workflow with custom rules. |
+| [E-Week Password Cracking Demo](https://github.com/jromero-cyber/E-Week-password-cracking-demo) | Reconstruction of award-winning Hashcat workflow with custom rules. |
 | [Malware Analysis Lab](link) | Walkthrough of static/dynamic analysis on public malware samples. |
 | [Linux Vulnerability Scanner](link) | Python script for auditing system hardening and CVE checks. |
 | [CTF Write-ups](link) | Documentation of TryHackMe/HackTheBox room solutions. |
