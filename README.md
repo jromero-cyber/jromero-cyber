@@ -1,28 +1,34 @@
-# 👋 Hi, I'm Juan Romero or you can call me Charlie!
+# 👋 Hi, I'm Juan Romero
 
-**Cybersecurity Student @ UTRGV | Offensive Security & Malware Analysis**
+**Cybersecurity Student @ UTRGV | Offensive Security & Malware Analysis Enthusiast**
 
-🎓 **Graduating:** December 2026  
+🎓 **Expected Graduation:** December 2026  
 🔐 **Certifications:** CompTIA Security+ (In Progress)  
-🏆 **Awards:** Winner of Challenge #3 — UTRGV E-Week Cybersecurity Competition 2024  
+🏆 **Awards:** Challenge #3 winner — UTRGV E-Week Cybersecurity Competition 2024  
+💼 **Currently:** Cybersecurity Mentor @ UTRGV TX-Cipher Camp
 
-## 🔧 Technical Skills
-- **Languages:** Python, Bash, C++, x86 Assembly
-- **Tools:** Ghidra, Hashcat, Wireshark, Nmap, Metasploit, REMnux
-- **Domains:** Malware Analysis, Reverse Engineering, Network Security, Vulnerability Assessment
+## 🔧 Tech Stack
+**Languages:** Python | Bash | C++ | x86 Assembly  
+**Tools:** Ghidra | Hashcat | Wireshark | Nmap | Metasploit | REMnux  
+**Domains:** Malware Analysis | Reverse Engineering | Network Security | Vulnerability Assessment
 
 ## 📂 Featured Projects
-| Project | Description |
-|---------|-------------|
-| [E-Week Password Cracking Demo](https://github.com/jromero-cyber/E-Week-password-cracking-demo) | Reconstruction of award-winning Hashcat workflow with custom rules. |
-| [Malware Analysis Lab](link) | Walkthrough of static/dynamic analysis on public malware samples. |
-| [Linux Vulnerability Scanner](link) | Python script for auditing system hardening and CVE checks. |
-| [CTF Write-ups](link) | Documentation of TryHackMe/HackTheBox room solutions. |
+### 🔓 [E-Week Password Cracking Demo](https://github.com/jromero-cyber/E-Week-Password-Cracking-Demo)
+Reconstruction of award-winning Hashcat workflow with custom rules and optimization strategies.
+
+### 🦠 [Malware Analysis Lab Notes](https://github.com/jromero-cyber/Malware-Analysis-Lab-Notes)
+Documented walkthroughs of static/dynamic analysis on public malware samples in controlled environments.
+
+### 🛡️ [Linux Vulnerability Scanner](https://github.com/jromero-cyber/Linux-Vulnerability-Scanner)
+Python-based tool for auditing system hardening, CVE checks, and security configuration reviews.
 
 ## 📫 Connect With Me
-- **LinkedIn:** [linkedin.com/in/juan-romero-cyber](link)
-- **Email:** romerocharlie1031@gmail.com
-- **Resume:** [Download PDF](link)
+- **📧 Email:** romerocharlie1031@gmail.com
+- **💼 LinkedIn:** [Your LinkedIn Profile URL]
+- **📄 Resume:** [Link to your resume PDF]
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jromero-cyber&show_icons=true&theme=radical)
 
 ---
-*“Security is not a product, but a process.” — Bruce Schneier*
+*"Security is a process, not a product." — Bruce Schneier*
