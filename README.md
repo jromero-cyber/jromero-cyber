@@ -4,7 +4,7 @@
 
 🎓 **Graduating:** December 2026  
 🔐 **Certifications:** CompTIA Security+ (In Progress)  
-🏆 **Awards:** 1st Place — UTRGV E-Week Cybersecurity Competition 2024  
+🏆 **Awards:** Winner of Challenge #3 — UTRGV E-Week Cybersecurity Competition 2024  
 
 ## 🔧 Technical Skills
 - **Languages:** Python, Bash, C++, x86 Assembly
