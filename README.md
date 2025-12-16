@@ -24,7 +24,7 @@ Python-based tool for auditing system hardening, CVE checks, and security config
 
 ## 📫 Connect With Me
 - **📧 Email:** romerocharlie1031@gmail.com
-- **💼 LinkedIn:** [Your LinkedIn Profile URL]
+- **💼 LinkedIn:** [https://www.linkedin.com/in/charlie-romero/]
 - **📄 Resume:** [Link to your resume PDF]
 
 ## 📈 GitHub Stats
