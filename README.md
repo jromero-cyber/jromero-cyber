@@ -3,14 +3,14 @@
 **Cybersecurity Student @ UTRGV | Offensive Security & Malware Analysis Enthusiast**
 
 🎓 **Expected Graduation:** December 2026  
-🔐 **Certifications:** CompTIA Security+ (In Progress)  
+🔐 **Certifications:** CompTIA Security+ | CompTIA Network+ 
 🏆 **Awards:** Challenge #3 winner — UTRGV E-Week Cybersecurity Competition 2024  
 💼 **Currently:** Cybersecurity Mentor @ UTRGV TX-Cipher Camp
 
 ## 🔧 Tech Stack
 **Languages:** Python | Bash | C++ | x86 Assembly  
-**Tools:** Ghidra | Hashcat | Wireshark | Nmap | Metasploit | REMnux  
-**Domains:** Malware Analysis | Reverse Engineering | Network Security | Vulnerability Assessment
+**Tools:** Ghidra | Hashcat | Wireshark | Nmap | Metasploit | REMnux | Wazuh
+**Domains:** Malware Analysis | Incident Response | Network Security | Vulnerability Assessment
 
 ## 📂 Featured Projects
 ### 🔓 [E-Week Password Cracking Demo](https://github.com/jromero-cyber/E-Week-Password-Cracking-Demo)
