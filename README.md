@@ -25,17 +25,12 @@ Capstone project: a portable IoT security auditing tool built on a Raspberry Pi 
 ### 🎣 [Phishing Lab](https://github.com/jromero-cyber/Phishing-Lab)
 LAMP-stack phishing simulation built in an isolated lab environment to study how phishing campaigns work and how to detect them.
 
-### 🧪 [Malware Sandbox Lab](https://github.com/jromero-cyber/Malware-Sandbox-Lab)
-Isolated analysis environment used for static (PEStudio, Ghidra) and dynamic (REMnux) analysis of EternalBlue and WannaCry samples.
-
 ### 🔓 [E-Week Password Cracking Demo](https://github.com/jromero-cyber/E-Week-Password-Cracking-Demo)
 Reconstruction of award-winning Hashcat workflow with custom rules and optimization strategies.
 
 ### 🦠 [Malware Analysis Lab Notes](https://github.com/jromero-cyber/Malware-Analysis-Lab-Notes)
 Documented walkthroughs of static/dynamic analysis on public malware samples in controlled environments.
 
-### 🛡️ [Linux Vulnerability Scanner](https://github.com/jromero-cyber/Linux-Vulnerability-Scanner)
-Python-based tool for auditing system hardening, CVE checks, and security configuration reviews.
 
 ## 📫 Connect With Me
 - **📧 Email:** romerocharlie1031@gmail.com
