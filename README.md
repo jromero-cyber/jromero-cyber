@@ -28,7 +28,7 @@ LAMP-stack phishing simulation built in an isolated lab environment to study how
 ### 🔓 [E-Week Password Cracking Demo](https://github.com/jromero-cyber/E-Week-Password-Cracking-Demo)
 Reconstruction of award-winning Hashcat workflow with custom rules and optimization strategies.
 
-### 🦠 [Malware Analysis Lab Notes](https://github.com/jromero-cyber/Malware-Analysis-Lab-Notes)
+### 🦠 [Malware Analysis Lab Notes](https://github.com/jromero-cyber/Malware-Sandbox/tree/main)
 Documented walkthroughs of static/dynamic analysis on public malware samples in controlled environments.
 
 
