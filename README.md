@@ -3,9 +3,11 @@
 **Cybersecurity Student @ UTRGV | Offensive Security & Malware Analysis Enthusiast**
 
 🎓 **Expected Graduation:** December 2026  
+
 🔐 **Certifications:** CompTIA Security+ | CompTIA Network+ 
 
 🏆 **Awards:** Challenge #3 winner — UTRGV E-Week Cybersecurity Competition 2024  
+
 💼 **Currently:** Cybersecurity Mentor @ UTRGV TX-Cipher Camp
 
 ## 🔧 Tech Stack
