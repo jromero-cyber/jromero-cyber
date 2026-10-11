@@ -6,9 +6,9 @@
 
 🔐 **Certifications:** CompTIA Security+ | CompTIA Network+ 
 
-🏆 **Awards:** Challenge #3 winner — UTRGV E-Week Cybersecurity Competition 2024  
+🏆 **Awards:** Challenge #3 winner — UTRGV E-Week Cybersecurity Competition 2024, 2025, 2026  
 
-💼 **Currently:** Cybersecurity Mentor @ UTRGV TX-Cipher Camp
+💼 **Currently:** IT Support Specialist @ Prime Healthcare
 
 ## 🔧 Tech Stack
 **Languages:** Python | Bash | C++ | x86 Assembly  
