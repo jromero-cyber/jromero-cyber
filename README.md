@@ -19,7 +19,7 @@
 ### 🛰️ [Wazuh SOC Lab](https://github.com/jromero-cyber/Wazuh-SOC-Lab)
 Wazuh SIEM deployed on a Raspberry Pi for log collection, alerting, and monitoring across simulated endpoints, with Python and Bash scripts that automate log parsing and alert tuning.
 
-### 📡 [IoT Sentry](https://github.com/jromero-cyber/IoT-Sentry)
+### 📡 [IoT Sentry]([https://github.com/jromero-cyber/IoT-Sentry](https://github.com/jromero-cyber/IoT-Sentry---Capstone-Project))
 Capstone project: a portable IoT security auditing tool built on a Raspberry Pi Zero 2W. Combines UART/SPI auditing, Nmap discovery, and MAC/OUI fingerprinting, feeding a FastAPI/SQLite backend and dashboard.
 
 ### 🎣 [Phishing Lab](https://github.com/jromero-cyber/Phishing-Lab)
