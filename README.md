@@ -35,7 +35,7 @@ Documented walkthroughs of static/dynamic analysis on public malware samples in 
 ## 📫 Connect With Me
 - **📧 Email:** romerocharlie1031@gmail.com
 - **💼 LinkedIn:** [linkedin.com/in/charlie-romero](https://www.linkedin.com/in/charlie-romero/)
-- **📄 Resume:** [View my resume (PDF)](./Juan_Romero_Resume.pdf)
+- **📄 Resume:** [View my resume (PDF)](https://github.com/jromero-cyber/jromero-cyber/blob/main/Resume_SOC_Analyst_STAR.pdf)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jromero-cyber&show_icons=true&theme=radical)
