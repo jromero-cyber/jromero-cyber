@@ -4,7 +4,7 @@
 
 🎓 **Expected Graduation:** December 2026  
 
-🔐 **Certifications:** [CompTIA Network+](https://github.com/jromero-cyber/jromero-cyber/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf) | CompTIA Network+ 
+🔐 **Certifications:** [CompTIA Network+](https://github.com/jromero-cyber/jromero-cyber/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf) | [CompTIA Network+](https://github.com/jromero-cyber/jromero-cyber/blob/main/CompTIA%20Security%2B%20ce%20certificate%20(3).pdf) 
 
 🏆 **Awards:** Challenge #3 winner — UTRGV E-Week Cybersecurity Competition 2024, 2025, 2026  
 
